@@ -1,0 +1,14 @@
+# Ignore PlatformIO build output
+.pio
+!.pio/build/
+!.pio/build/xiao-esp32s3/
+!.pio/build/xiao-esp32s3/bootloader.bin
+!.pio/build/xiao-esp32s3/partitions.bin
+!.pio/build/xiao-esp32s3/firmware.bin
+
+# Ignore VS Code settings
+.vscode
+
+# Ignore helper scripts
+*.ps1
+!run.ps1
