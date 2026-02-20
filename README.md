@@ -323,4 +323,4 @@ As long as you keep it open-source.
 
 ---
 
-If you have questions, ideas, or want to contribute — feel free to open an issue or discussion on GitHub, or send an email to vst@imkersleiden.nl.
+If you have questions, ideas, or want to contribute — feel free to open an issue or discussion on GitHub, or send an email to ah-val@imkersleiden.nl
