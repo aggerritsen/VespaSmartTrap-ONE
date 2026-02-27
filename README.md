@@ -9,7 +9,7 @@ This version **VST-ONE** is a *Proof of Concept* of the Vespa Smart Trap project
 👉 **No soldering, no programming, no engineering skills required.**
 
 All parts are off-the-shelf modules and the software is installed using simple web tools.
-Full instructions are available in [VST-ONE Manual V2.3](doc/Vespa%20Smart%20Trap%20-%20ONE%20V2.3.pdf)
+Full instructions are available in [VST-ONE Manual V2.4](doc/Vespa%20Smart%20Trap%20-%20ONE%20V2.4.pdf)
 
 ---
 ## What is this project?
@@ -324,3 +324,13 @@ As long as you keep it open-source.
 ---
 
 If you have questions, ideas, or want to contribute — feel free to open an issue or discussion on GitHub, or send an email to ah-val@imkersleiden.nl
+
+
+## Version history
+
+### 2.3 First released version
+Version released on 17-02-2026
+
+### 2.4 Update camera
+Version released on 27-02-2026
+- Added Raspberry CAM V2.0 to documentation
